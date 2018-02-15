@@ -1,15 +1,9 @@
-a=raw_input("")
-
-b=raw_input("")
-c=raw_input("")
+a=int(input(""))
+b=int(input(""))
+c=int(input(""))
 if((a>b) and (a>c)):
-    
-   print("a is greater")
-
+    print("a is greater")
 elif((b>a) and (b>c)):
-    
-   print("b is greater")
-
+    print("b is greater")
 else:
-   
-   print("c is greater")
+    print("c is greater")
