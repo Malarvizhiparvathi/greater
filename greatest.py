@@ -1,8 +1,7 @@
-a=1
+a=raw_input("")
 
-b=2
-c=3
-
+b=raw_input("")
+c=raw_input("")
 if((a>b) and (a>c)):
     
    print("a is greater")
